@@ -1,4 +1,4 @@
-package org.example;
+package arraylist_challenge;
 
 import arraylist_challenge.Console;
 import arraylist_challenge.GroceryList;
